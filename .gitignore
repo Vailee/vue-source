@@ -1,0 +1,9 @@
+/node_modules/
+/.temp/
+/build/
+/**/.DS_Store
+yarn-error.log
+/dist/
+/dest/
+.idea
+/app/configs/routes.tsx
